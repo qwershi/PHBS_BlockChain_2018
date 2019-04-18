@@ -17,7 +17,7 @@ Blockchain has the characteristics of data immutability and proof of the existen
 Transportation of hazardous material should consider not only cost and efficiency, but also security. Secuirity is the most important.
 * Blockchains can be used to monitor the flow and status of hazardous material in the whole logistics in real time, accurately and effectively, so that the regulatory authorities can conduct pre-regulation rather than accountability after the accident.
 * All the information of agencies, suppliers, and transporters in the supply chain are written into the blockchain. The information will be permanently stored in the blockchain. Once accident happens, it is convenient to inqure.
-### 2. Decentralized brokerage shipping
+### 2. [Decentralized brokerage shipping](https://shipchain.io/)
 In the process of shipping, `brokers` coordinate `carriers` (provide transportation service) to organize orders and get payment from `shippers` (customers). Brokers charge a high middle-man markup, sometimes 30-50%. Traditionally, it is hard to get rid of `brokers` because establishing trust between `shippers` and `carriers` is difficult.
 * By using the token as incentive, `carriers` can organize themselves to find shipments and intelligently route their team under the constrain of smart contract.
 * The whole transportation process is clear. The status of the shipment can be obtained in real time by `shippers`.
