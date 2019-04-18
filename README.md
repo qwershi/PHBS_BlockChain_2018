@@ -9,6 +9,8 @@ The supply chain involves many different parties. There exist a lot of interacti
 ### 2. What can Blockchain change?
 Blockchain technology as a large-scale collaboration tool is naturally suitable for supply chain management.
 * Improve efficiency
-  Blockchain technology enables data to be made public between parties. That forms a complete and smooth flow of information throughout the supply chain, which ensures that all parties involved find problems and find solutions to problems in real time.
+
+Blockchain technology enables data to be made public between parties. That forms a complete and smooth flow of information throughout the supply chain, which ensures that all parties involved find problems and find solutions to problems in real time.
 * Better acountability and dispute resolution
-  Blockchain has the characteristics of data immutability and proof of the existence of timestamps.
+
+Blockchain has the characteristics of data immutability and proof of the existence of timestamps.
