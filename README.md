@@ -18,3 +18,9 @@ Transportation of hazardous material should consider not only cost and efficienc
 * Blockchains can be used to monitor the flow and status of hazardous material in the whole logistics in real time, accurately and effectively, so that the regulatory authorities can conduct pre-regulation rather than accountability after the accident.
 * All the information of agencies, suppliers, and transporters in the supply chain are written into the blockchain. The information will be permanently stored in the blockchain. Once accident happens, it is convenient to inqure.
 ### 2. 
+### 3. Signing for express delivery
+The final link of logistics natrually has a signing process. It is easy to come up an idea to use `private key` to make digital signature and use `public key` to verify identity when signing for express delivery.
+* Secuirity. It is impossible for to received others' express delivery maliciously if everyone keep his `private key` a secret.
+* Privacy. What exposed to the public is only the user's `public key`. No personal information can be read from Blockchain, even including phone numbers.
+* Requirement is not enough. Blockchain increase the cost of the whole system if the accuracy and efficeny are high. Customers would not have such strong requirement to protect their privacy when the cost is too much. 
+### 4. Charity in logistics
