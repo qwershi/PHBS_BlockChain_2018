@@ -37,7 +37,7 @@ Take `Maersk`’s avocado transport from Mombasa to Rotterdam as an example. Acc
 #### 1.2 Advantages of TradeLens
 The `TradeLens` platform was designed from the ground up to build an energy efficient networked ecosystem that addresses global trade and shipping logistics. The core business network consists of members of the `TradeLens` network, such as operators, ports and customs, financial institutions, shippers, in-port logistics, third-party logistics, etc. They connect platforms to provide data to the platform. Through the synergy formed by members, a platform based on the commercial network is formed. The platform is designed to be accessible through open APIs and can integrate the entire ecosystem of the long chain of supply chains so that all parties in the industry can share information and Collaborate effectively. Blockchain and cloud technology provide effective support for the platform. On the business network and platform, `TradeLens` builds applications and services, an open application and services market that allows platform parties and third parties to publish their own business applications and services.
 
-(fig1)
+![](https://github.com/qwershi/PHBS_BlockChain_2018/blob/master/TradeLens_Glance.png)
 
 `TradeLens` has four major advantages:
 
